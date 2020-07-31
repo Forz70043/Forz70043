@@ -12,14 +12,14 @@ Software Developer at [Elasian](https://www.elaisian.com)
 ## :dart: Goals
 
 #### Current
-Improve my career
-Enjoy experiece abroad
-Create a software house
-Partecipate in a Hackathons
+- [ ] Improve my career
+- [ ] Enjoy experiece abroad
+- [ ] Create a software house
+- [ ] Partecipate in a Hackathons
 
 #### Completed
-~~Start a programmer career~~
-~~Attended a startups accelerator program~~
+- [x] Start a programmer career
+- [x] Attended a startups accelerator program
 
 
 
