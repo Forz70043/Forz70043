@@ -1,4 +1,29 @@
-### Hi there 👋
+## :briefcase: Experience 
+
+#### Currently
+
+Junior Developer at [alter.net](https://www.alternet.it)
+
+#### Previusly
+
+Software Developer at [Elasian](https://www.elaisian.com)
+
+
+## :dart: Goals
+
+#### Current
+Improve my career
+Enjoy experiece abroad
+Create a software house
+Partecipate in a Hackathons
+
+#### Completed
+~~Start a programmer career~~
+~~Attended a startups accelerator program~~
+
+
+
+
 
 <!--
 **Forz70043/Forz70043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
