@@ -12,7 +12,7 @@ Software Developer at [Elasian](https://www.elaisian.com)
 - [ ] Improve my career
 - [ ] Enjoy experiece abroad
 - [ ] Create a software house
-- [ ] Partecipate in a Hackathons
+- [ ] Partecipate to Hackathons
 
 #### Completed
 - [x] Start a programmer career
