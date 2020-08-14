@@ -22,6 +22,7 @@ Software Developer at [Elasian](https://www.elaisian.com)
 
 #### Keep in touch :smiley:
 [![](/images/linkedin.png)](https://www.linkedin.it/in/alfonsopisicchio)
+[![](/images/instagram.png)](https://www.instagram.com/le_muert/)
 
 <!--
 **Forz70043/Forz70043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
