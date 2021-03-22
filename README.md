@@ -1,8 +1,10 @@
 ## :briefcase: Experience 
 
 #### Currently
-Junior Developer at [alter.net](https://www.alternet.it)
+Senior Developer at [Boostar](https://www.boostar.it)
 #### Previusly
+Junior Developer at [alter.net](https://www.alternet.it)
+
 Software Developer at [Elasian](https://www.elaisian.com)
 
 
