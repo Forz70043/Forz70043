@@ -16,7 +16,8 @@ Junior Developer at [alter.net](https://www.alternet.it)
 
 Software Developer at [Elasian](https://www.elaisian.com)
 
-
+<hr>
+<!--
 ## :dart: Goals
 
 #### Current
@@ -28,12 +29,8 @@ Software Developer at [Elasian](https://www.elaisian.com)
 #### Completed
 - [x] Start a programmer career
 - [x] Attended a startups accelerator program
+-->
 
-
-
-#### Keep in touch :smiley:
-[![](/images/linkedin.png)](https://www.linkedin.it/in/alfonsopisicchio)
-[![](/images/instagram.png)](https://www.instagram.com/le_muert/)
 
 <!--
 **Forz70043/Forz70043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,3 +46,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Forz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forz70043&count_private=true&theme=gotham&show_icons=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forz70043&layout=compact&langs_count=6&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
+#### Keep in touch :smiley:
+[![](/images/linkedin.png)](https://www.linkedin.it/in/alfonsopisicchio)
+[![](/images/instagram.png)](https://www.instagram.com/le_muert/)
