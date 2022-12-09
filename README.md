@@ -2,8 +2,8 @@
 # Alfonso
 [![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat&logo=linux&logoColor=black)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/OS-Fedora-blue?style=flat&logo=linux&logoColor=black)](https://fedora.com/)
-[![](https://img.shields.io/badge/Editor-VS%20Code-blueviolet?style=flat&logo=visual-studio-code&logoColor=black)](https://code.visualstudio.com/)
-
+[![](https://img.shields.io/badge/Editor-PHPStorm-blueviolet)](https://www.jetbrains.com/phpstorm.com/)
+[![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=black)](https://code.visualstudio.com/)
 
 <hr>
 
