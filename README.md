@@ -48,12 +48,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forz70043&count_private=true&theme=gotham&show_icons=true)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forz70043&layout=compact&langs_count=6&theme=gotham)]()
-
+-->
 
 #### Keep in touch :smiley:
 [![](/images/linkedin.png)](https://www.linkedin.it/in/alfonsopisicchio)
