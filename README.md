@@ -1,60 +1,84 @@
+# 👋 Hi, I'm Alfonso! Welcome to my GitHub Profile!
+
+Welcome to my little corner on GitHub! 🌟  
+I'm a passionate web developer with a love for creating beautiful, functional websites and applications. Take a look at my repositories, and feel free to connect with me if you like what you see! 🚀
+---
+
+## 🔧 Technologies & Tools I Use
+
+- **Languages:**  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)   
+  ![PHP](https://img.shields.io/badge/-PHP-4065fa?style=flat&logo=php&logoColor=white)   
+  ![Bash](https://img.shields.io/badge/-Bash-02050d?style=flat&logo=GNU-Bash&logoColor=white)   
+  ![SQL](https://img.shields.io/badge/-MySQL-ef0202?style=flat&logo=MySql&logoColor=white)   
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-069324?style=flat&logo=MongoDB&logoColor=white)   
+
+- **Frameworks & Libraries:**   
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
+  ![Magento2](https://img.shields.io/badge/-Magento2-f68308?style=flat&logo=Magento2&logoColor=black) 
+
+- **Tools:**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat&logo=docker&logoColor=white)   
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)    
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-f23aec?style=flat&logo=bitBucket&logoColor=white)    
+  ![TeamCity](https://img.shields.io/badge/-TeamCity-660563?style=flat&logo=teamcity&logoColor=white)    
+
+---
+
+## 🌱 What I'm currently learning:
+
+- **Learning more about:**  
+  - Advanced JavaScript concepts (Async/Await, Promises, etc.)  
+  - AWS & Google Cloud   
+  - Serverless architectures
+
+---
+
+## 🏆 My GitHub Stats
+
+![Alfonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Forz70043&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 📂 Some of My Projects
+
+- 🚀 **[Project 1: My simple portfolio](https://github.com/Forz70043/Forz70043.github.io)**  
+  A responsive website with a clean design built with HTML, CSS, and JavaScript.  
+  _Technologies used: HTML, CSS, JavaScript_
+
+- 💻 **[Project 2: Node.js API](https://github.com/Forz70043/node-api)**  
+  A simple RESTful API built using Node.js and Express, perfect for learning backend development.  
+  _Technologies used: Node.js, Express, MongoDB, MySQL_
+
+- 🖥 **[Project 3: Dynamic VH](https://github.com/Forz70043/dynamicVH)**  
+  My personal command for Ubuntu built with bash, for create virtualHost per Apache2  
+  _Technologies used: Bash_
+
   
-# Alfonso
-[![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat&logo=linux&logoColor=black)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/OS-Fedora-blue?style=flat&logo=linux&logoColor=black)](https://fedora.com/)
-[![](https://img.shields.io/badge/Editor-PHPStorm-blueviolet)](https://www.jetbrains.com/phpstorm.com/)
-[![](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code&logoColor=black)](https://code.visualstudio.com/)
+- 🖥 **[Project 4: CPU Monitor](https://github.com/Forz70043/CPU_monitor)**  
+  An applicatrion built with Javascript that offer a CPU monitor and memory usage throught graph  
+  _Technologies used: Javascript, HTML, CSS3, ElectronJS_
 
-<hr>
+---
 
-## :briefcase: Experience 
+## 💬 Get in Touch
 
-#### Currently
-PHP Developer at [Investech](https://www.investech.it/)
+I'm always open to new opportunities and collaborations! If you'd like to connect, here’s how you can reach me:
 
-#### Previusly
-Systems Integration at [Business Changers](https://www.business-changers.it/)
+- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/alfonso)  
+- **Email:** [alfonso.pisicchio@gmail.com](mailto:alfonso.pisicchio@gmail.com)  
+- **GitHub:** [@Forz70043](https://github.com/Forz70043)
 
-Junior Developer at [alter.net](https://www.alternet.it)
+---
 
-Software Developer at [Elasian](https://www.elaisian.com)
+## 📖 Fun Facts About Me
 
-<hr>
-<!--
-## :dart: Goals
+- I love learning new languages, both human and programming! 💬  
+- I’m a huge fan of problem-solving, and I spend my free time solving coding challenges on platforms like [LeetCode](https://leetcode.com/) and [Codewars](https://www.codewars.com/).  
+- When I'm not coding, you can find me exploring new coffee shops or binge-watching tech documentaries. ☕📚
 
-#### Current
-- [ ] Improve my career
-- [ ] Enjoy experiece abroad
-- [ ] Create a software house
-- [ ] Partecipate to Hackathons
+---
 
-#### Completed
-- [x] Start a programmer career
-- [x] Attended a startups accelerator program
--->
-
-
-<!--
-**Forz70043/Forz70043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-[![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=Forz70043&count_private=true&theme=gotham&show_icons=true)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Forz70043&layout=compact&langs_count=6&theme=gotham)]()
--->
-
-#### Keep in touch :smiley:
-[![](/images/linkedin.png)](https://www.linkedin.it/in/alfonsopisicchio)
-[![](/images/instagram.png)](https://www.instagram.com/le_muert/)
+Thanks for stopping by! Feel free to take a look at my repositories or drop me a message. 😊  
