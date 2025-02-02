@@ -34,20 +34,19 @@ I'm a passionate web developer with a love for creating beautiful, functional we
 
 ## 📂 Some of My Projects
 
-- 🚀 **[Project 1: My simple portfolio](https://github.com/Forz70043/Forz70043.github.io)**  
+- 🚀 **[My simple portfolio](https://github.com/Forz70043/Forz70043.github.io)**  
   A responsive website with a clean design built with HTML, CSS, and JavaScript.  
   _Technologies used: HTML, CSS, JavaScript_
 
-- 💻 **[Project 2: Node.js API](https://github.com/Forz70043/node-api)**  
+- 💻 **[Node.js API](https://github.com/Forz70043/node-api)**  
   A simple RESTful API built using Node.js and Express, perfect for learning backend development.  
   _Technologies used: Node.js, Express, MongoDB, MySQL_
 
-- 🖥 **[Project 3: Dynamic VH](https://github.com/Forz70043/dynamicVH)**  
+- 🖥 **[Dynamic VH](https://github.com/Forz70043/dynamicVH)**  
   My personal command for Ubuntu built with bash, for create virtualHost per Apache2  
   _Technologies used: Bash_
 
-  
-- 🖥 **[Project 4: CPU Monitor](https://github.com/Forz70043/CPU_monitor)**  
+- 🖥 **[CPU Monitor](https://github.com/Forz70043/CPU_monitor)**  
   An applicatrion built with Javascript that offer a CPU monitor and memory usage throught graph  
   _Technologies used: Javascript, HTML, CSS3, ElectronJS_
 
