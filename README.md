@@ -56,7 +56,7 @@ I'm a passionate web developer with a love for creating beautiful, functional we
 
 I'm always open to new opportunities and collaborations! If you'd like to connect, here’s how you can reach me:
 
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/alfonso)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alfonsopisicchio/)  
 - **Email:** [alfonso.pisicchio@gmail.com](mailto:alfonso.pisicchio@gmail.com)  
 - **GitHub:** [@Forz70043](https://github.com/Forz70043)
 
