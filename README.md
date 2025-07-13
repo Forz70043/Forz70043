@@ -34,7 +34,7 @@ I'm a passionate web developer with a love for creating beautiful, functional we
 
 ## 📂 Some of My Projects
 
-- 🚀 **[My simple portfolio](https://github.com/Forz70043/Forz70043.github.io)**  
+- 🚀 **[My simple portfolio](https://forz70043.github.io)**  
   A responsive website with a clean design built with HTML, CSS, and JavaScript.  
   _Technologies used: HTML, CSS, JavaScript_
 
