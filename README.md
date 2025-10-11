@@ -20,7 +20,8 @@ I'm a passionate web developer with a love for creating beautiful, functional we
 ## 🌱 What I'm currently learning:
 
 - **Learning more about:**  
-  - AWS & Google Cloud   
+  - AWS & Google Cloud
+  - Black Hat Bash
   - Serverless architectures
 
 ---
