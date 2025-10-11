@@ -20,7 +20,6 @@ I'm a passionate web developer with a love for creating beautiful, functional we
 ## 🌱 What I'm currently learning:
 
 - **Learning more about:**  
-  - Advanced JavaScript concepts (Async/Await, Promises, etc.)  
   - AWS & Google Cloud   
   - Serverless architectures
 
