@@ -46,9 +46,9 @@ I'm a passionate web developer with a love for creating beautiful, functional we
   My personal command for Ubuntu built with bash, for create virtualHost per Apache2  
   _Technologies used: Bash_
 
-- 🖥 **[CPU Monitor](https://github.com/Forz70043/CPU_monitor)**  
-  An applicatrion built with Javascript that offer a CPU monitor and memory usage throught graph  
-  _Technologies used: Javascript, HTML, CSS3, ElectronJS_
+- 🖥 **[Dev toolkit](https://github.com/Forz70043/dev-toolkit)**  
+  A collection of utilities and tools for development written in JS published on npm.  
+  _Technologies used: Javascript_
 
 ---
 
@@ -59,6 +59,7 @@ I'm always open to new opportunities and collaborations! If you'd like to connec
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alfonsopisicchio/)  
 - **Email:** [alfonso.pisicchio@gmail.com](mailto:alfonso.pisicchio@gmail.com)  
 - **GitHub:** [@Forz70043](https://github.com/Forz70043)
+- **Site:** [pisicchio.dev](https://pisicchio.dev)
 
 ---
 
