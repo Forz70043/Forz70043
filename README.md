@@ -46,7 +46,7 @@ I'm a passionate web developer with a love for creating beautiful, functional we
   My personal command for Ubuntu built with bash, for create virtualHost per Apache2  
   _Technologies used: Bash_
 
-- 🖥 **[Dev toolkit](https://github.com/Forz70043/dev-toolkit)**  
+- 🔄 **[Dev toolkit](https://github.com/Forz70043/dev-toolkit)**  
   A collection of utilities and tools for development written in JS published on npm.  
   _Technologies used: Javascript_
 
