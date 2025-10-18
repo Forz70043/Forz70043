@@ -38,7 +38,7 @@ I'm a passionate web developer with a love for creating beautiful, functional we
   A responsive website with a clean design built with HTML, CSS, and JavaScript.  
   _Technologies used: HTML, CSS, JavaScript_
 
-- 🔄 **[Dev toolkit](https://github.com/Forz70043/dev-toolkit)**  
+- 🧰 **[Dev toolkit](https://github.com/Forz70043/dev-toolkit)**  
   A collection of utilities and tools for development written in JS published on [npm](https://www.npmjs.com/package/@forz/dev-toolkit).  
   _Technologies used: Javascript_
 
