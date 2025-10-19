@@ -1,0 +1,25 @@
+name: Keep the grass green 🌿
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update date file
+        run: |
+          echo "Last updated: $(date)" > last_update.txt
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "alfonso.pisicchio@libero.it"
+          git config --local user.name "Forz70043"
+          git add .
+          git commit -m "Daily auto-commit 🌱" || echo "No changes to commit"
+          git push
